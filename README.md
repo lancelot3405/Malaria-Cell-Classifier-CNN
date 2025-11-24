@@ -14,10 +14,9 @@ This solution uses a Convolutional Neural Network (CNN) to perform binary image 
 | File/Directory | Description |
 | :--- | :--- |
 | `malaria_classifier.py` | Complete Python script for data processing, training, and evaluation. |
-| `malaria_cnn_model.h5` | The final trained model (HDF5 format). |
 | `Project_Report.pdf` | Detailed project report (as required by the assignment). |
 | `screenshots/` | Plots of Confusion Matrix, Accuracy Curve, and GUI demonstration. |
-| `screenrecordings/` | Video demonstration of the prediction interface (if included). |
+
 
 ### 4. Setup and Execution
 To run the project, follow these steps:
