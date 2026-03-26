@@ -24,3 +24,8 @@ To run the project, follow these steps:
 2.  Install dependencies: `pip install tensorflow scikit-learn seaborn pandas`
 3.  **Update Data Paths:** Edit the `TRAIN_DATA_DIR` and `TEST_DATA_DIR` variables in `malaria_classifier.py` to point to your local dataset folders.
 4.  Run the script: `python malaria_classifier.py`
+
+
+### 5. Dataset
+Malaria Cell Images Dataset in Kaggle by arunava
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
